@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'satoshi_variable';
+    src: url('./assets/Fonts/659DBDFD5A080BE8D3483173_SATOSHI-VARIABLE.woff2') format('woff2');
+}
